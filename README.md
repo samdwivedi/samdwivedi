@@ -6,13 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sameer+%F0%9F%91%8B;Freelance+ML+%2F+AI+Engineer;Python+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning;Building+AI+that+works+in+the+real+world)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=samdwivedi&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-I build AI systems that actually work — not just in notebooks, but in production.
+I build AI systems that actually work not just in notebooks, but in production.
 
 I'm a freelance ML/AI engineer focused on Python, deep learning, LLMs, and RAG pipelines. I've spent the last few years figuring out how to take AI from "interesting demo" to "thing a real business can use." That's the part most people skip. I don't.
 
@@ -47,14 +47,14 @@ Currently open to **remote freelance and contract work**.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samdwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdwivedi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="65%" />
+  <img src="https://streak-stats.demolab.com?user=samdwivedi&theme=tokyonight&hide_border=true" width="65%" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ Currently open to **remote freelance and contract work**.
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samdwivedi&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ Currently open to **remote freelance and contract work**.
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sam_dwivedi&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 </div>
 
 ---
@@ -82,8 +82,8 @@ A full-stack AI app that predicts cognitive decline risk from behavioral tests �
 
 > `Flask` `XGBoost` `SHAP` `SQLite` `JavaScript`
 
-<a href="https://github.com/YOUR_USERNAME/cognitive-decline-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=cognitive-decline-detection&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/samdwivedi/Early-Cognitive-Decline-Detection-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samdwivedi&repo=Early-Cognitive-Decline-Detection-System&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
@@ -94,7 +94,7 @@ A full-stack AI app that predicts cognitive decline risk from behavioral tests �
 
 ## What I'm working on right now
 
-- 🔍 A **RAG pipeline** for document-heavy workflows — the kind where a chatbot actually needs to understand 200-page PDFs, not just summarize them
+- 🔍 A **RAG pipeline** for document-heavy workflows the kind where a chatbot actually needs to understand 200-page PDFs, not just summarize them
 - 🧪 **LLM fine-tuning** for domain-specific tasks where off-the-shelf models fall short
 - ✍️ Writing about what I'm learning as I go
 
@@ -102,7 +102,7 @@ A full-stack AI app that predicts cognitive decline risk from behavioral tests �
 
 ## How I work
 
-I'm not the kind of engineer who disappears after handing over a model file. I care about whether the thing I built actually solves the problem — which means I ask annoying questions upfront, communicate clearly throughout, and don't ship something I wouldn't use myself.
+I'm not the kind of engineer who disappears after handing over a model file. I care about whether the thing I built actually solves the problem which means I ask annoying questions upfront, communicate clearly throughout, and don't ship something I wouldn't use myself.
 
 If you have an AI idea and aren't sure if it's feasible, I'm happy to tell you honestly. Even if the answer is "not the way you're thinking about it."
 
@@ -114,8 +114,8 @@ I'm open to freelance projects, remote contracts, and interesting problems.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sameerdwivedi2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-dwivedi/)
 
 *Response time: usually within 24 hours. I read every message.*
 
@@ -127,9 +127,9 @@ I'm open to freelance projects, remote contracts, and interesting problems.
 
 <!-- Snake animation — only shows after you complete the one-time setup below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" alt="snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samdwivedi/samdwivedi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samdwivedi/samdwivedi/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/samdwivedi/samdwivedioutput/github-snake.svg" alt="snake animation" />
 </picture>
 
 </div>
