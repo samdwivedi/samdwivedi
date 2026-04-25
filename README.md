@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sameer+%F0%9F%91%8B;Freelance+ML+%2F+AI+Engineer;Python+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning;Building+AI+that+works+in+the+real+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sameer+%F0%9F%91%8B;+ML+%2F+AI+Engineer;Python+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+Deep+Learning;Building+AI+that+works+in+the+real+world)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samdwivedi&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -78,7 +78,7 @@ Currently open to **remote freelance and contract work**.
 ## Projects I'm proud of
 
 ### 🧠 Early Cognitive Decline Detection System
-A full-stack AI app that predicts cognitive decline risk from behavioral tests — memory recall, reaction time, typing speed. Built with a Random Forest + XGBoost ensemble, SHAP explainability, and a longitudinal dashboard so you can track risk over time, not just get a one-time score.
+A full-stack AI app that predicts cognitive decline risk from behavioral tests  memory recall, reaction time, typing speed. Built with a Random Forest + XGBoost ensemble, SHAP explainability, and a longitudinal dashboard so you can track risk over time, not just get a one-time score.
 
 > `Flask` `XGBoost` `SHAP` `SQLite` `JavaScript`
 
