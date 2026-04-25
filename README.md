@@ -86,6 +86,18 @@ A full-stack AI app that predicts cognitive decline risk from behavioral tests  
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=samdwivedi&repo=Early-Cognitive-Decline-Detection-System&theme=tokyonight&hide_border=true" />
 </a>
 
+
+### 🔹 Smart Loan Recovery & Risk Prediction System  
+> ML-based system to identify high-risk borrowers and optimize recovery strategies.CrediNeeti is an enterprise-grade AI-powered platform designed to redefine distressed asset management. By combining Deep Learning for risk prediction with automated operational playbooks, it protects institutional capital and optimizes the entire loan recovery lifecycle.  
+
+- Models: Classification algorithms  
+- Focus: FinTech risk modeling  
+- 📈 Business-driven insights  
+
+<a href="https://github.com/samdwivedi/Smart-Loan-Recovery-System-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samdwivedi&repo=Smart-Loan-Recovery-System-ML&theme=tokyonight&hide_border=true" />
+</a>
+
 ---
 
 *More projects coming — currently building in public. Watch this space.*
